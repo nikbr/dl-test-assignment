@@ -1,0 +1,42 @@
+8.100.0.0/21,NA,North America,US,United States,Unknown,Unknown,Unknown,Unknown,Unknown
+8.100.8.0/25,NA,North America,US,United States,Unknown,Unknown,Unknown,Unknown,Unknown
+8.100.8.128/26,NA,North America,US,United States,Unknown,Unknown,Unknown,Unknown,Unknown
+8.100.8.192/27,NA,North America,US,United States,Unknown,Unknown,Unknown,Unknown,Unknown
+8.100.8.224/28,NA,North America,US,United States,Unknown,Unknown,Unknown,Unknown,Unknown
+8.100.8.240/29,NA,North America,US,United States,Unknown,Unknown,Unknown,Unknown,Unknown
+8.100.8.248/30,NA,North America,US,United States,Unknown,Unknown,Unknown,Unknown,Unknown
+8.100.8.252/31,NA,North America,US,United States,Unknown,Unknown,Unknown,Unknown,Unknown
+8.100.8.255/32,NA,North America,US,United States,Unknown,Unknown,Unknown,Unknown,Unknown
+8.100.9.0/24,NA,North America,US,United States,Unknown,Unknown,Unknown,Unknown,Unknown
+8.100.10.0/23,NA,North America,US,United States,Unknown,Unknown,Unknown,Unknown,Unknown
+8.100.12.0/22,NA,North America,US,United States,Unknown,Unknown,Unknown,Unknown,Unknown
+8.100.16.0/20,NA,North America,US,United States,Unknown,Unknown,Unknown,Unknown,Unknown
+8.100.32.0/19,NA,North America,US,United States,Unknown,Unknown,Unknown,Unknown,Unknown
+8.100.64.0/18,NA,North America,US,United States,Unknown,Unknown,Unknown,Unknown,Unknown
+8.100.128.0/17,NA,North America,US,United States,Unknown,Unknown,Unknown,Unknown,Unknown
+8.101.0.0/16,NA,North America,US,United States,Unknown,Unknown,Unknown,Unknown,Unknown
+8.102.0.0/15,NA,North America,US,United States,Unknown,Unknown,Unknown,Unknown,Unknown
+8.104.0.0/13,NA,North America,US,United States,Unknown,Unknown,Unknown,Unknown,Unknown
+8.112.0.0/12,NA,North America,US,United States,Unknown,Unknown,Unknown,Unknown,Unknown
+2001:400::/33,NA,North America,US,United States,TN,Tennessee,Unknown,Unknown,Oak Ridge
+2001:400:8000::/35,NA,North America,US,United States,TN,Tennessee,Unknown,Unknown,Oak Ridge
+2001:400:a000::/36,NA,North America,US,United States,TN,Tennessee,Unknown,Unknown,Oak Ridge
+2001:400:b000::/37,NA,North America,US,United States,TN,Tennessee,Unknown,Unknown,Oak Ridge
+2001:400:b800::/39,NA,North America,US,United States,TN,Tennessee,Unknown,Unknown,Oak Ridge
+2001:400:ba00::/48,NA,North America,US,United States,TN,Tennessee,Unknown,Unknown,Oak Ridge
+2001:400:ba01::/52,NA,North America,US,United States,TN,Tennessee,Unknown,Unknown,Oak Ridge
+2001:400:ba01:1000::/56,NA,North America,US,United States,TN,Tennessee,Unknown,Unknown,Oak Ridge
+2001:400:ba01:1100::/57,NA,North America,US,United States,TN,Tennessee,Unknown,Unknown,Oak Ridge
+2001:400:ba01:1180::/58,NA,North America,US,United States,TN,Tennessee,Unknown,Unknown,Oak Ridge
+2001:400:ba01:11c0::/60,NA,North America,US,United States,TN,Tennessee,Unknown,Unknown,Oak Ridge
+2001:400:ba01:11d1::/64,NA,North America,US,United States,TN,Tennessee,Unknown,Unknown,Oak Ridge
+2001:400:ba01:11d2::/63,NA,North America,US,United States,TN,Tennessee,Unknown,Unknown,Oak Ridge
+2001:400:ba01:11d4::/62,NA,North America,US,United States,TN,Tennessee,Unknown,Unknown,Oak Ridge
+2001:400:ba01:11d8::/61,NA,North America,US,United States,TN,Tennessee,Unknown,Unknown,Oak Ridge
+2001:400:ba01:11e0::/59,NA,North America,US,United States,TN,Tennessee,Unknown,Unknown,Oak Ridge
+2001:400:ba01:1200::/55,NA,North America,US,United States,TN,Tennessee,Unknown,Unknown,Oak Ridge
+2001:400:ba01:1400::/54,NA,North America,US,United States,TN,Tennessee,Unknown,Unknown,Oak Ridge
+2001:400:ba01:1800::/53,NA,North America,US,United States,TN,Tennessee,Unknown,Unknown,Oak Ridge
+2001:400:ba01:2000::/51,NA,North America,US,United States,TN,Tennessee,Unknown,Unknown,Oak Ridge
+2001:400:ba01:4000::/50,NA,North America,US,United States,TN,Tennessee,Unknown,Unknown,Oak Ridge
+2001:400:ba01:8000::/49,NA,North America,US,United States,TN,Tennessee,Unknown,Unknown,Oak Ridge
