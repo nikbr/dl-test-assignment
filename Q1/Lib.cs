@@ -190,7 +190,7 @@ namespace Q1
             }
             catch (Exception)
             {
-                Console.WriteLine("Не правильный IPv4 формат.");
+                Console.WriteLine("Неправильный IPv4 формат.");
                 throw new FormatException("Неправильный IPv4 формат.");
             }
 
